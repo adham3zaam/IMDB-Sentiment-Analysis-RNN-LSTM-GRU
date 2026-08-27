@@ -152,6 +152,9 @@ The project saves:
 4. Train the RNN, LSTM, and GRU models.
 5. Compare the model performance.
 6. Use the best model for sentiment prediction.
+## Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adham3zaam/IMDB-Sentiment-Analysis-RNN-LSTM-GRU/blob/main/RNNLSTMGRU.ipynb)
 
 ## Project Structure
 
